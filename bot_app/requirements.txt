@@ -1,0 +1,12 @@
+aioredis
+fastapi
+uvicorn
+httpx
+requests
+python-dotenv
+langchain
+openai
+chromadb
+soundfile
+colorlog
+aiofile
